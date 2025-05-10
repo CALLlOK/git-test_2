@@ -7,4 +7,6 @@ git config -get user.name, user.email - просмотреть имя автор
 git log --oneline - просмотреть короткую запись комментария
 git push [rep_link] [branch_name] - добавить файлы в репозиторий github (branch - ветка)
 git remote -v - ссылка на репозиторий
+git branch - посмотреть название ветки
+git push origin(название ссылки, можно по названию) master(branch название ветки)
 
