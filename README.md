@@ -22,3 +22,7 @@ feature/about-company - ветка отвечает за разработку о
 
 git branch develop - создать ветку "develop"
 git checkout develop - переключиться на ветку "develop"
+
+git merge - слияние веток
+git branch -d develop - удаление ветки "develop"
+
